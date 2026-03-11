@@ -1,6 +1,3 @@
-
-
-.gitignor
 .env
 .venv/
 venv/
